@@ -1,7 +1,7 @@
 ---
 title: CTF Adventures and Beyond. A Warm Welcome to My Blog 
-date: 2024-08-19 00:10:01 +000
-categories: [ctf, htb, writeup]
+#date: 2024-08-19 00:10:01 +000
+categories: [ctf, htb, walkthroughs]
 tags: [ctf, htb, walkthroughs]
 ---
 
