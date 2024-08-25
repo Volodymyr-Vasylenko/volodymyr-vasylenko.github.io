@@ -1,8 +1,17 @@
 ---
 title: CTF Adventures and Beyond. A Warm Welcome to My Blog 
-#date: 2024-08-19 00:10:01 +000
-categories: [ctf, htb, walkthroughs]
-tags: [ctf, htb, walkthroughs]
+date: 2024-08-18
+categories: [General]
+tags: [ctf, htb, walkthroughs, general]
+keywords: 
+  - CTF
+  - HackTheBox
+  - Cybersecurity walkthrough
+  - Blog
+  - Cyber Security
+  - Tech
+  - IT
+---
 ---
 
 # Welcome to My Blog!

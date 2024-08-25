@@ -16,10 +16,10 @@ timezone:
 
 title: Volodymyr Vasylenko # the main title
 
-tagline: My personal blog # it will display as the sub-title
+tagline: My personal blog about Cyber Security, IT, Tech and other things # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  blog, htb, ctf, cybersecurity
+  blog, htb, ctf, cybersecurity, it, tech
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: "https://volodymyr-vasylenko.github.io"
 github:
   username: Volodymyr-Vasylenko # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
